@@ -59,7 +59,6 @@
         - PCB design
         - CircuitPython example code
     - TODO:
-        - Change the diode connection pad to "cut to disconnect" style
         - Make the display module a separate library.
         - Documents/tutorials for the CircuitPython Examples
         - Arduino Version of the Sensor Interface
