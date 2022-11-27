@@ -62,3 +62,5 @@
         - Make the display module a separate library.
         - Documents/tutorials for the CircuitPython Examples
         - Arduino Version of the Sensor Interface
+
+## [Projects in mind](https://urfdvw.github.io/urfdvw/projects_in_mind.html)
