@@ -63,4 +63,4 @@
         - Documents/tutorials for the CircuitPython Examples
         - Arduino Version of the Sensor Interface
 
-## [Projects in mind](https://urfdvw.github.io/urfdvw/projects_in_mind.html)
+## [Projects in mind](./projects_in_mind.md#projects-in-mind)

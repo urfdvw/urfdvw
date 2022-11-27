@@ -12,3 +12,10 @@
     - compatible with the whole vscode eco-system
         - users can install other extensions
         - users' experience can be transferred to other work, e.g., desktop-installed vscode.
+
+### Hardware AHK
+- Goal:
+    - Use teensy 4.1 as the hardware.
+        - because of the usb host Cpy Library.
+    - Achieve some basic functions of Auto Hot Key.
+    - Finally be part of the keyboard.
