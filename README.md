@@ -1,4 +1,4 @@
-# [List of Active Projects](https://urfdvw.github.io/urfdvw/projects.html) 👈
+# [List of Active Projects](https://urfdvw.github.io/urfdvw/active_projects.html) 👈
 
 <!--
 **urfdvw/urfdvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
