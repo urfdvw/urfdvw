@@ -22,7 +22,7 @@
 - Stage: In Progress
     - DONE:
         - Code is mostly done
-    - TODOs:
+    - TODO:
         - Style check
         - Clean up the repo 
         - Write Better documentation
@@ -44,10 +44,20 @@
 ### [Pod Thing](https://github.com/urfdvw/pod-thing)
 - Private: still in the early stage
 - Stage:
-    - DONE
+    - DONE:
         - Concept proved
         - Module decided and tested
-    - TODO
+    - TODO:
         - PCB and enclosure
         - UI
         - Spotify Web API client
+
+### [Xiao Expansion](https://github.com/urfdvw/XiaoExp)
+- Stage:
+    - DONE:
+        - PCB design
+        - CircuitPython example code
+    - TODO:
+        - Make the display module a separate library.
+        - Documents/tutorials for the CircuitPython Examples
+        - Arduino Version of the Sensor Interface
