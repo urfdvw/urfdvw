@@ -1,9 +1,14 @@
 ## Active Projects
 ### [CircuitPython Online IDE](https://github.com/urfdvw/CircuitPython-online-IDE)
 - Stage:
-    - No obvious bug during intensive use by myself.
-    - There are many logic-level issues that need to be improved before graduating from Beta.
-        - logged in GitHub issues
+    - DONE:
+        - IDE is deployed and working fine most of the time
+        - known code and logical bugs are logged in GitHub Issues.
+    - TODO:
+        - clean up code and organize it in a nicer, cleaner, and maintainable way.
+        - A separate node.js project to collect crashing logs
+            - this is to help me debug the code.
+            - I will try my best not to collect any user-generated content.
 - Target audience:
     - Education is the first of first
         - Thus, keeping things simple is important
@@ -12,12 +17,13 @@
 
 ### [Password Keeper](https://github.com/urfdvw/Password-Keeper)
 - Stage:
-    - In use
-- Plan:
-    - Better UI of the web app
-        - Can be a chance to practice Front End Framework
-    - Vlog
-    - Replace if-else with finite state machine framework
+    - DONE:
+        - In use
+    - TODO:
+        - Better UI of the web app
+            - Can be a chance to practice Front End Framework
+        - Vlog
+        - Replace if-else with finite state machine framework
 
 ### [keypadi2c](https://github.com/urfdvw/CircuitPython_keypadi2c)
 - Stage: In Progress
