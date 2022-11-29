@@ -58,9 +58,9 @@
     - DONE:
         - PCB design
         - CircuitPython example code
+        - Arduino Version of the Sensor Interface
     - TODO:
         - Make the display module a separate library.
         - Documents/tutorials for the CircuitPython Examples
-        - Arduino Version of the Sensor Interface
 
 ## [Projects in mind](./projects_in_mind.md#projects-in-mind)
