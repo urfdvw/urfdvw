@@ -19,3 +19,9 @@
         - because of the usb host Cpy Library.
     - Achieve some basic functions of Auto Hot Key.
     - Finally be part of the keyboard.
+
+### SAMD21 Arduboy Port
+- Goal:
+    - Run Arduboy games on the XiaoExp
+- Ref:
+    - https://www.hackster.io/naveenbskumar/arduboy-extended-using-wio-terminal-28756e
