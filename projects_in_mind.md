@@ -1,5 +1,9 @@
 ## Projects in mind
 
+### Github integration with CircuitPython Online IDE
+- Goal:
+    - Store the project with git.
+
 ### CircuitPython Online IDE based on vscode.dev
 - Reason
     - vscode.dev have much better python IntelliSense, file management, and UI than my hand-crafted one
