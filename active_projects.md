@@ -25,6 +25,15 @@
         - Vlog
         - Replace if-else with finite state machine framework
 
+### [Voyager Pad](https://github.com/urfdvw/voyager-pad)
+- Stage:
+    - DONE:
+        - Single profile macropad firmware is done
+    - TODO:
+        - How to make guides
+        - vlog
+        - multiple profile and switch
+
 ### [keypadi2c](https://github.com/urfdvw/CircuitPython_keypadi2c)
 - Stage: In Progress
     - DONE:
