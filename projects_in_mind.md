@@ -8,7 +8,7 @@ The possibilities are not proved yet.
     - https://mastodon.social/@urfdvw/109591999407013602
 - Audience: me
 - Clue
-    - https://colab.research.google.com/drive/1kL292RLnL_abTl7OXwxm_QRKSy1Cvzal#scrollTo=vvy2bFhTyMvk&uniqifier=1
+    - https://colab.research.google.com/drive/1kL292RLnL_abTl7OXwxm_QRKSy1Cvzal
     - https://www.amazon.com//dp/B09B3L3435/
     - https://www.amazon.com/dp/B08XZDYKPT/
     - https://www.amazon.com/dp/B0BGLM26Z1
