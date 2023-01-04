@@ -3,6 +3,19 @@ The following projects are very long term goals.
 The vision is there but the dots are not connected yet.
 The possibilities are not proved yet.
 
+### RGB touch pad
+- Reason
+    - https://mastodon.social/@urfdvw/109591999407013602
+- Audience: me
+- Clue
+    - https://colab.research.google.com/drive/1kL292RLnL_abTl7OXwxm_QRKSy1Cvzal#scrollTo=vvy2bFhTyMvk&uniqifier=1
+    - https://www.amazon.com//dp/B09B3L3435/
+    - https://www.amazon.com/dp/B08XZDYKPT/
+    - https://www.amazon.com/dp/B0BGLM26Z1
+- Goal
+    - Generic touch pad drive
+    - MIDI control with visual effects
+
 ### Serial virtual device
 - Reason
     - Make circuitpython projects more interactive
