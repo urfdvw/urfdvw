@@ -3,6 +3,19 @@ The following projects are very long term goals.
 The vision is there but the dots are not connected yet.
 The possibilities are not proved yet.
 
+### CircuitPython Online IDE based on vscode.dev
+- Reason
+    - vscode.dev have much better python IntelliSense, file management, and UI than my hand-crafted one
+    - It looks like web-serial is supported in vscode extensions for cloud
+- The audience: still Education
+    - Otherwise, I am not motivated to make things online
+- Goal:
+    - pre-configured, aka, keep things simple
+        - no installation of extension etc.
+    - compatible with the whole vscode eco-system
+        - users can install other extensions
+        - users' experience can be transferred to other work, e.g., desktop-installed vscode.
+
 ### RGB touch pad
 - Reason
     - https://mastodon.social/@urfdvw/109591999407013602
@@ -99,18 +112,7 @@ The possibilities are not proved yet.
 - Goal:
     - a framework that allows widows like a OS
 
-### CircuitPython Online IDE based on vscode.dev
-- Reason
-    - vscode.dev have much better python IntelliSense, file management, and UI than my hand-crafted one
-    - It looks like web-serial is supported in vscode extensions for cloud
-- The audience: still Education
-    - Otherwise, I am not motivated to make things online
-- Goal:
-    - pre-configured, aka, keep things simple
-        - no installation of extension etc.
-    - compatible with the whole vscode eco-system
-        - users can install other extensions
-        - users' experience can be transferred to other work, e.g., desktop-installed vscode.
+
 
 ### Github integration with CircuitPython Online IDE
 - Goal:
