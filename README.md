@@ -1,4 +1,10 @@
-# [List of Active Projects](./active_projects.md#active-projects) 👈
+# Follow me on 
+- [Youtube](https://www.youtube.com/channel/UCeunCRTBkjHWynMl4I4le_A)
+- [Twitter](https://twitter.com/River___Wang)
+- [Fosstodon](https://fosstodon.org/@Riverwang)
+
+
+# [List of Active Projects](./active_projects.md) 👈
 
 <!--
 **urfdvw/urfdvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a rel="me" href="https://fosstodon.org/@Riverwang">Mastodon</a>
